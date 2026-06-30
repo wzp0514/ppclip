@@ -1,0 +1,5 @@
+openai>=1.0
+pyJianYingDraft
+pymediainfo
+numpy>=1.24
+Pillow>=10.0
